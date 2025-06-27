@@ -1,5 +1,5 @@
 # AMZN-Stock-price-prediction-Elevate-labs
-<br>
+
 
 # 📈 LSTM Stock Price Predictor
 
